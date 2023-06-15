@@ -1,6 +1,9 @@
-# Vite React App Installation and Local Setup Guide
+## Website Direct link hosted on Netlify
+- [clickme](https://sankalp-dribbble-clone.netlify.app)
 
-This guide will walk you through the steps to install and run a Vite React app locally on your machine.
+# Website Installation and Local Setup Guide
+
+This guide will walk you through the steps to install and run a React app locally on your machine.
 
 ## Prerequisites
 
@@ -11,7 +14,7 @@ Before getting started, make sure you have the following software installed on y
 
 ## Installation Steps
 
-1. Clone the GitHub repository of the Vite React app using the following command in your terminal:
+1. Clone the GitHub repository of the React app using the following command in your terminal:
 
    ```git clone https://github.com/xsankalp13/dribbble-clone.git```
    

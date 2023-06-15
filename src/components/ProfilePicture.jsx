@@ -1,9 +1,9 @@
 import React from 'react'
 import { Icon } from '../assets'
 
-const ProfilePicture = ({ height }) => {
+const ProfilePicture = ({ size }) => {
   return (
-    <img src={Icon} className={`h-[${height}] rounded-full`}/>
+    <img src={Icon} height={size} width={size} className={`rounded-full`}/>
   )
 }
 

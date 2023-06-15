@@ -41,8 +41,11 @@ const Card = ({ name,image,likes,views,text }) => {
         </div>
         <div className='mt-2 flex items-center justify-between'>
             <div className='flex align-baseline gap-2 '>
-                <ProfilePicture height="20px"/>
+                <ProfilePicture size={20}/>
+                <p>
+
                 {name}
+                </p>
             </div>
             <div className='flex items-center gap-1 text-gray-600'>
                 <AiFillHeart className=' hover:text-pink-600'/>

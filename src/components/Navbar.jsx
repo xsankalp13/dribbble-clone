@@ -21,7 +21,7 @@ const Navbar = () => {
           <button className={`text-white rounded-md bg-[#0d0c22] hover:bg-[#565564] p-3 hover:cursor-pointer duration-300 md:hidden sm:hidden lg:hidden`}>
             Share Work
            </button>
-           <ProfilePicture height="30px"/>
+           <ProfilePicture size={30}/>
         </div>
     </div>
   )
