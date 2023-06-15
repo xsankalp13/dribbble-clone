@@ -11,12 +11,18 @@ Before getting started, make sure you have the following software installed on y
 
 ## Installation Steps
 
-Clone the GitHub repository of the Vite React app using the following command in your terminal:
+1. Clone the GitHub repository of the Vite React app using the following command in your terminal:
 
    ```git clone https://github.com/xsankalp13/dribbble-clone.git```
    
+2. Step 2:
+
     ```cd dribbble-clone```
 
+3. Step 3:
+
     ```npm i```
+
+4. Step 4:
 
     ```npm run dev```
